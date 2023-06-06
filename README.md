@@ -1,1 +1,3 @@
-# Documentations_ITX_and_Aston ghbbbbbtbtbttb
+# ***Тестирование требований***
+## ***Aston QA Manual course***
++ [Ссылка на документацию](https://docs.google.com/document/d/1P5zJnbOvkd5vNhlp1-Orv-X4rdxT9ZEfYOsD2PLsiLw/edit?usp=sharing)
